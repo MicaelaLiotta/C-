@@ -1,0 +1,30 @@
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.csproj.AssemblyReference.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.AssemblyInfoInputs.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.AssemblyInfo.cs
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\bin\Debug\net7.0\ParcialLaboratorio2.exe
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\bin\Debug\net7.0\ParcialLaboratorio2.deps.json
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\bin\Debug\net7.0\ParcialLaboratorio2.runtimeconfig.json
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\bin\Debug\net7.0\ParcialLaboratorio2.dll
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\bin\Debug\net7.0\ParcialLaboratorio2.pdb
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.dll
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\obj\Debug\net7.0\refint\ParcialLaboratorio2.dll
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.pdb
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.genruntimeconfig.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Nivel 1 C#\parcialLaboratorio2\obj\Debug\net7.0\ref\ParcialLaboratorio2.dll
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\bin\Debug\net7.0\ParcialLaboratorio2.exe
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\bin\Debug\net7.0\ParcialLaboratorio2.deps.json
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\bin\Debug\net7.0\ParcialLaboratorio2.runtimeconfig.json
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\bin\Debug\net7.0\ParcialLaboratorio2.dll
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\bin\Debug\net7.0\ParcialLaboratorio2.pdb
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.csproj.AssemblyReference.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.AssemblyInfoInputs.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.AssemblyInfo.cs
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.csproj.CoreCompileInputs.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.dll
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\obj\Debug\net7.0\refint\ParcialLaboratorio2.dll
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.pdb
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\obj\Debug\net7.0\ParcialLaboratorio2.genruntimeconfig.cache
+C:\Users\MICAELA\OneDrive\Escritorio\Visual Studio Code\Nivel 1 C#\ParcialLaboratorio2\obj\Debug\net7.0\ref\ParcialLaboratorio2.dll
